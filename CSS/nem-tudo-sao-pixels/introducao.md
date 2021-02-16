@@ -9,4 +9,4 @@
   ```css
    <color> <length>
    ```
-* os termos podem variasr. `values` ou `data types`
+* os termos podem variar. `values` ou `data types`
