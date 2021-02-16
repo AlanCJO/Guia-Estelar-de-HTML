@@ -1,0 +1,12 @@
+# Valores e unidades de medida
+
+* cada propriedade possui valores `property: value`
+* estudo constante a fim de entender as propriedades e seus valores
+
+## Prática
+
+* como conhecer e estudar os valores na documentação?
+  ```css
+   <color> <length>
+   ```
+* os termos podem variasr. `values` ou `data types`

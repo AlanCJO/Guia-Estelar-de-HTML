@@ -1,0 +1,11 @@
+@import 'https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@400;600;900&display=swap';
+
+
+h1 {
+    color: red;
+    font-family: Big Shoulders Display, 'cursive';
+}
+
+strong {
+    color: green;
+}
